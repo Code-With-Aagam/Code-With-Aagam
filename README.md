@@ -3,7 +3,7 @@
 - 👀 I’m interested in coding and gaming🎮
 - 🌱 I’m currently learning ...everything
 - 💞️ I’m looking to collaborate on ...new, fun and different projects
-- 📫 How to reach me ...mail:-[Mail(aagam.shah192001@gmail.com)
+- 📫 How to reach me ...mail:-[Mail](aagam.shah192001@gmail.com)
 - 👍 U can also reach me on Linkedin-[Profile](https://www.linkedin.com/in/aagam-shah-3ab765203/)
 - 😀 Pronouns... He/Him
 - ⚡ Fun fact- I like to draw and play Cricket.
