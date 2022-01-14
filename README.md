@@ -1,3 +1,6 @@
+<img src="https://github.com/Code-With-Aagam/Code-With-Aagam/blob/main/banner.png" alt="Hello world">
+
+
 <h1 align="center">Hi 👋, I'm Aagam Shah</h1>
 <h3 align="center">A passionate Coder, Developer and Gamer.</h3>
 
