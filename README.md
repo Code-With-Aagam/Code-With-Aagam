@@ -1,5 +1,9 @@
 <img src="https://github.com/Code-With-Aagam/Code-With-Aagam/blob/main/banner.png" alt="Hello world">
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Aagam Shah</h1>
 <h3 align="center">A passionate Coder, Developer and Gamer.</h3>
