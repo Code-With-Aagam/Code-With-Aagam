@@ -1,7 +1,7 @@
 <img src="https://github.com/Code-With-Aagam/Code-With-Aagam/blob/main/banner.png" alt="Hello world">
 
 <h1 align="center">Hi 👋, I'm Aagam Shah</h1>
-<h3 align="center">A passionate Coder, Developer and Gamer.</h3>
+<h3 align="center">A self-motivated tech enthusiast, Developer and Gamer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-with-aagam" alt="code-with-aagam" /></a> </p>
 
