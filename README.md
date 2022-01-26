@@ -46,7 +46,9 @@
 
 <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-aagam&show_icons=true&theme=radical" alt="code-with-aagam" /></p>
 
-# Contribution Graph
+
+
+<h3 align="left">Contribution Graph:</h3>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Code-With-Aagam)  
 
