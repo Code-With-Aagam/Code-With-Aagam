@@ -5,7 +5,7 @@
 <h3 align="center">A self-motivated tech enthusiast, Developer and Gamer.</h3>
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=Code-With-Aagam&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=Code-With-Aagam&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)<a  /></a> </p>
-  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
+  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="300" height="auto" />
   
 
 - 🏫 Student at SRM Institute Of Science and Technology
