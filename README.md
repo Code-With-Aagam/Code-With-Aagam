@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+<p align="center"><img src="https://github.com/Code-With-Aagam/Code-With-Aagam/blob/main/banner.png" /></p>
 
 
 <h1 align="center">Hi 👋, I'm Aagam Shah</h1>
