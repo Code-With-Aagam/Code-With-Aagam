@@ -40,8 +40,7 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=Code-With-Aagam&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
   
 
-<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-with-aagam&show_icons=true&theme=radical" alt="code-with-aagam" />
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="300" /></p>
+<p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-with-aagam&show_icons=true&theme=radical" alt="code-with-aagam" /></p>
 
 
 <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-aagam&show_icons=true&theme=radical" alt="code-with-aagam" /></p>
