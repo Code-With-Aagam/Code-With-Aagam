@@ -47,7 +47,7 @@
 
 
 
-<h3 align="left">👉Contribution Graph</h3>
+<h3 align="left">Contribution Graph</h3>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Code-With-Aagam)  
 
