@@ -15,7 +15,7 @@
 
 - 📫 How to reach me :- aagam.shah192001@gmail.com
 
-- 👍 U can also reach me on LinkedIn - [Profile](https://www.linkedin.com/in/aagam-shah-3ab765203/)
+- 👍 My Portfolio - [Profile](https://code-with-aagam.github.io/portfolio/dist/)
 
 - ⚡ Fun fact I like to play cricket and Badminton
 
