@@ -15,7 +15,7 @@
 
 - 📫 How to reach me - aagam.shah192001@gmail.com
 
-- ⚡ Fun fact I like to play cricket and Badminton
+- ⚡ Fun fact I like to play cricket
 
 
 <h3 align="left">Connect with me</h3>
