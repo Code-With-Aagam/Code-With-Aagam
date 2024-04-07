@@ -9,13 +9,11 @@
   
 - 🏫 Student at SRM Institute Of Science and Technology
 
-- 🌱 I’m currently learning everything 🤣                                   
+- 🌱 I’m currently learning everything                                  
 
 - 👯 I’m looking to collaborate on new fun and different projects         
 
 - 📫 How to reach me - aagam.shah192001@gmail.com
-
-- ❤️ [My Website](https://code-with-aagam.github.io/My-Portfolio/dist/) 
 
 - ⚡ Fun fact I like to play cricket and Badminton
 
