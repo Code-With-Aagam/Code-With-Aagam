@@ -7,7 +7,7 @@
  [![trophy](https://github-profile-trophy.vercel.app/?username=Code-With-Aagam&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=Code-With-Aagam&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)<a  /></a> </p>
   <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="300" height="auto" />
   
-- 🏫 Student at SRM Institute Of Science and Technology
+- 🏫 Student at Dr BR Ambedkar National institute Of Technology jalandhar
 
 - 🌱 I’m currently learning everything                                  
 
